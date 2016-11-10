@@ -30,6 +30,8 @@ public class AnalyzerTest {
 			}
 			System.out.println();
 			
+			System.out.println("git更新测试");
+			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
